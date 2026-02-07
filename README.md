@@ -59,8 +59,18 @@ Analyses were conducted using **R** and **GraphPad**, and included:
 
 The figures in this repository are **representative reproductions** generated from simulated data to reflect the analytical workflow and graphical standards used in the published article.
 
-All visualizations follow the same structure, statistical logic, and interpretation strategy applied in the original study.
+The following figures were generated using simulated data and reflect the statistical workflow and visualization standards applied in the published study.
 
+### Peak Heart Rate
+![Heart Rate](figures/heart_rate_comparison.png)
+
+### VO₂max Distribution
+![VO2max](figures/vo2max_boxplot.png)
+
+### Blood Pressure Summary
+![Blood Pressure](figures/blood_pressure_summary.png)
+
+All visualizations follow the same structure, statistical logic, and interpretation strategy applied in the original study.
 ---
 
 ## 🔐 Data Availability
